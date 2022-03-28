@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @wisdomscode
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning and working with Pyhton, Angular, PHP and Laravel
-- 💞️ I’m looking to collaborate on some of my projects and any other to bring them to live
-- 📫 How to reach me, mail me at wisdomscode@gmail.com
+- 👀 I am a full stack Software developer
+- 🏢 My coding strength  lies on Pyhton, Django, PHP, HTML,  CSS and Javascript.
+- 💞️ I’m looking to collaborate with 1st class developers 
+- 📫 How to reach me, mail me at wisdomscode@gmail.com OR contact me via my profile at https://ugochukwu.wisdomson.com
 
 <!---
 wisdomscode/wisdomscode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
