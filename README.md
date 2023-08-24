@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wisdomscode
-- 👀 I am an enthusiastic full stack Software developer
-- 🏢 My coding strength  lies on Pyhton, Django, PHP, HTML,  CSS and Javascript.
+- 👀 I am an enthusiastic Web and Mobile Software developer
+- 🏢 My coding strength  lies on Pyhton, Django, Flutter, PHP and Javascript.
 - 💞️ I’m looking to collaborate with other enthusiastic developers 
 - 📫 How to reach me, mail me at wisdomscode@gmail.com OR contact me via my profile at http://wisdom.westhubict.com
 
