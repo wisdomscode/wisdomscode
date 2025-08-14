@@ -2,7 +2,8 @@
 - 👀 I am an enthusiastic Web and Mobile Software developer
 - 🏢 My coding strength  lies on Pyhton, Django, Dart, Flutter, PHP, Laravel and Javascript.
 - 💞️ I’m looking to collaborate with other enthusiastic developers 
-- 📫 How to reach me, mail me at wisdomscode@gmail.com OR contact me via my profile at https://westhubict.com/wisdom-ugochukwu
+- 📫 How to reach me, mail me at wisdomscode@gmail.com
+     View my profile at https://westhubict.com/wisdom-ugochukwu
 
 <!---
 wisdomscode/wisdomscode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
